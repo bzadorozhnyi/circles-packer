@@ -1,6 +1,6 @@
 # Circles packer (find local extreme)
 
-There are set of circles that need to be packed in circle, placed in $(0, 0)$, in such way, that any of cirlces overlap and are inside main circle. This solution find one of **local** extremes. 
+There are set of circles that need to be packed in circle, placed in $(0, 0)$, in such way, that any of cirlces overlap and are inside main circle. Finds one of the local minima of the problem of packing circles into a circle of minimum radius.
 
 ## Condition
 $$

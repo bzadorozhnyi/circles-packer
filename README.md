@@ -15,3 +15,14 @@ R \to \min
 $$
 
 where $(x_i, y_i)$ coordinate of center of given circle, $r_i$ - radius (same for $j$), $R$ - radius of main circle.
+
+## Example
+### Without dichotomy step R-algo
+<p align="center">
+  <img src="./images/example.png">
+</p>
+
+### With dichotomy step R-algo
+<p align="center">
+  <img src="./images/example_with_ralgo.png">
+</p>

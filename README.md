@@ -48,3 +48,8 @@ There are several params in ```ralgb5``` which use ```dichotomy_step_ralgo```:
 <p align="center">
   <img src="./images/example_with_ralgo.png">
 </p>
+
+## Used in project
+* Python
+* [Numpy](https://numpy.org/doc/stable/index.html)
+* [Matplotlib](https://matplotlib.org/)

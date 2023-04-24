@@ -1,4 +1,4 @@
-# Circles packing problem solver (find local extreme)
+# Circles packer (find local extreme)
 
 There are set of circles that need to be packed in circle, placed in $(0, 0)$, in such way, that any of cirlces overlap and are inside main circle. This solution find one of **local** extremes. 
 

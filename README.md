@@ -5,7 +5,7 @@ There is a set of small circles that need to be packed in a circle, placed in $(
 ## Condition
 $$
 \begin{cases}
-  (x_i-x_j)^2 + (y_i-y_j)^2 \ge (r_1+r_2)^2, &&\forall i,j (i \ne j) \\
+  (x_i-x_j)^2 + (y_i-y_j)^2 \ge (r_i+r_j)^2, &&\forall i,j (i \ne j) \\
   x_i^2+y_i^2 \le (R - r_i)^2, &&\forall i \\
 \end{cases}
 $$
